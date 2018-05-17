@@ -5,9 +5,6 @@
 #ifndef CPPJNITEST_PERSON_H
 #define CPPJNITEST_PERSON_H
 
-
-#include <jni.h>
-
 class Person {
 private:
     int age;
